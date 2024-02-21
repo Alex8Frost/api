@@ -27,9 +27,13 @@
 
 
 Endpoints:
+
 ●	task/update (Обновить задачу)
+
 ●	task/create (Создать задачу)
+
 ●	task/destroy (Удалить задачу)
+
 
 
 Стек: Python, Django (Djangorestframework)
