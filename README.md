@@ -32,6 +32,10 @@ Endpoints:
 
   + task/destroy (Удалить задачу)
 
-
-
 Стек: Python, Django (Djangorestframework)
+
+## Инструкция по запуску проекта:
+    + 1. Установить Docker Desktop [ссылка](https://www.docker.com/products/docker-desktop/)
+    + 2. Вставить/создать файл ".env" в корень проекта
+    + 3. Запустить команду: +    docker-compose up
+
